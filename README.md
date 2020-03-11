@@ -36,6 +36,8 @@ The link of the used API is : https://www.thecocktaildb.com/api.php
 
 To train our **Barmaid 2.0 chatbot**, we used the built-in one-click integration **Telegram** of the Dialogflow's interface to let some friends test our chatbot, collect their end-user expressions and analyse those expressions to provide our future end-users a better intent classification. 
 
+Link to the telegram's bot : https://t.me/Barmaid2_bot
+
 #### Writing a self-explanatory notebook
 
 In order to fulfill the requirement of the project, we wrote a **Google Colab** notebook under the form of a tutorial. This notebook contains the following:
