@@ -1,0 +1,216 @@
+[
+  {
+    "id": "0d7a4a5f-f731-4d3c-a355-cda4240d6f55",
+    "data": [
+      {
+        "text": "Can i have the list of cocktails having ",
+        "userDefined": false
+      },
+      {
+        "text": "lime",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31af5057-bebd-4904-b132-d1f02c819816",
+    "data": [
+      {
+        "text": "Give me some cocktails with ",
+        "userDefined": false
+      },
+      {
+        "text": "lemon",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228cb21e-4e76-4c88-aee5-482d755b3ca2",
+    "data": [
+      {
+        "text": "Rum",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5205f86a-e55a-41b3-a0e3-b1f58a22c31f",
+    "data": [
+      {
+        "text": "Lemon",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17b65167-f11b-4cce-9289-bf899eb03d41",
+    "data": [
+      {
+        "text": "can I have the list of cocktail with ",
+        "userDefined": false
+      },
+      {
+        "text": "Lemon",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70a97ab6-8d32-4e6f-abd2-714ef6a818e1",
+    "data": [
+      {
+        "text": "can i have the list of cocktails with ",
+        "userDefined": false
+      },
+      {
+        "text": "Gin",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4fed3f6e-46be-4b7a-bc42-bf548d03bda2",
+    "data": [
+      {
+        "text": "Can I have the list of drinks that have ",
+        "userDefined": false
+      },
+      {
+        "text": "melon",
+        "alias": "ingredients",
+        "userDefined": false
+      },
+      {
+        "text": " inside?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cee6a97-e502-479f-aa59-5acbc42218f6",
+    "data": [
+      {
+        "text": "I want to have a cocktail with ",
+        "userDefined": false
+      },
+      {
+        "text": "apples",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      },
+      {
+        "text": " but I don\u0027t know which ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa7c9426-b6af-494e-b60e-e8352b4944fc",
+    "data": [
+      {
+        "text": "I want to see the list of cocktails that have ",
+        "userDefined": false
+      },
+      {
+        "text": "orange juice",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      },
+      {
+        "text": " in it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4cc35e9-57d2-4e8a-b5c8-844c79e769fb",
+    "data": [
+      {
+        "text": "I\u0027d like to see the list of cocktails that have ",
+        "userDefined": false
+      },
+      {
+        "text": "ginger",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      },
+      {
+        "text": " in it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12abe3c5-061d-4f58-9adc-9b73f6c8a434",
+    "data": [
+      {
+        "text": "I would like to see which cocktail have ",
+        "userDefined": false
+      },
+      {
+        "text": "lemon",
+        "alias": "Ingredients",
+        "meta": "@Ingredients",
+        "userDefined": true
+      },
+      {
+        "text": " inside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

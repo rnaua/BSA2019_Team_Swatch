@@ -1,0 +1,1988 @@
+[
+  {
+    "id": "e2cee29e-9397-4772-9f79-24b5e90e79dc",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "caipirinha",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ac72793-1364-4fe3-b50e-711a5072319a",
+    "data": [
+      {
+        "text": "Medium",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0680b2a3-31b3-4daa-b0ea-a9f6216b57e5",
+    "data": [
+      {
+        "text": "Cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a9d94989-c1d3-40c4-8d84-ada13efff4ce",
+    "data": [
+      {
+        "text": "Barmaid",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "012c4af1-7e8d-40f2-ab8b-c541dd66832c",
+    "data": [
+      {
+        "text": "Venus",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b33a3742-e2ba-429d-a96c-79d8cb44ff23",
+    "data": [
+      {
+        "text": "Now",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3e4e12c-d518-4bb5-9503-f13337875c78",
+    "data": [
+      {
+        "text": "I would like the receipt of ",
+        "userDefined": false
+      },
+      {
+        "text": "caipirinha",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a777d59e-b1d1-447a-bc23-e85579810ae4",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "109900bc-7209-458d-b32e-59ba0b13db10",
+    "data": [
+      {
+        "text": "Large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "be20fa29-0e34-476f-9dd0-4071e0dfa0ea",
+    "data": [
+      {
+        "text": "Uranus",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "65abc566-6299-4425-9d66-2a6b209ed880",
+    "data": [
+      {
+        "text": "10 minutes",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9a0c95b-fe5c-484a-b4d7-7840f87b6f46",
+    "data": [
+      {
+        "text": "Martini",
+        "alias": "cocktail_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9442b1ed-aa38-47e2-91d7-8a93f2c232f8",
+    "data": [
+      {
+        "text": "Barmaids",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bc8d77a5-f8b1-4cf3-a682-b39d36549af1",
+    "data": [
+      {
+        "text": "Kepler 22B",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "44abb121-a31b-41b7-ab4a-bb5b685d2d32",
+    "data": [
+      {
+        "text": "04:20",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4c719142-44e5-4df2-b4a5-7004dcc2b981",
+    "data": [
+      {
+        "text": "barmaid",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "19ec8f8d-e95d-4eb9-9580-dc3a295154dc",
+    "data": [
+      {
+        "text": "pluto",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65c8dc20-8e61-46d5-b200-56371e0357ab",
+    "data": [
+      {
+        "text": "20:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d1fee22-d9b9-44ce-b4e5-53e4b5ab5b5b",
+    "data": [
+      {
+        "text": "Martini",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6bc26ec-109a-4115-92e0-97c2733040db",
+    "data": [
+      {
+        "text": "beer",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16caf701-e001-40e2-a303-b9a5cc1b9494",
+    "data": [
+      {
+        "text": "big",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cc4917c3-f0dd-454c-bca6-8f823bbf3e03",
+    "data": [
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "36ec07d3-8c82-4e80-8009-6bfc381e0553",
+    "data": [
+      {
+        "text": "Barman",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d495c355-25d9-4361-8a8d-cf119bae5a6a",
+    "data": [
+      {
+        "text": "Mars",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6c08a740-4350-40e8-ba1d-de5727a5eec6",
+    "data": [
+      {
+        "text": "21:40",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86af0c46-159c-46ee-954b-150d3d14a8b2",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2c01844-1bcc-4bea-b396-eb47891fdbab",
+    "data": [
+      {
+        "text": "Small",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90a31970-a94d-44c3-834a-131fe2a71e4a",
+    "data": [
+      {
+        "text": "22.30pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02394a7b-4842-4f61-b233-2750bdca1233",
+    "data": [
+      {
+        "text": "Earth",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2bbec864-98cc-4806-b849-d6f8bf6d7f34",
+    "data": [
+      {
+        "text": "Barracuda",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "56435345-687a-4bef-af8a-c85ce4eeb25e",
+    "data": [
+      {
+        "text": "Card",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "53fc96a1-d01f-4fa2-9fed-26b4c021c011",
+    "data": [
+      {
+        "text": "Chicago Fizz",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "774821b9-af88-46c1-bca7-5737feed40d1",
+    "data": [
+      {
+        "text": "22:00",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fa43fce-91e6-4c39-a111-78f27931845e",
+    "data": [
+      {
+        "text": "Chicago Frizz",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bc6a2fe-c070-472e-9ffe-5937f3bfd3f4",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c43f124a-e0d1-4bb2-8fc7-ea8b065b7354",
+    "data": [
+      {
+        "text": "card",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ee7f8ca4-10a3-431b-92f0-4ac69669e633",
+    "data": [
+      {
+        "text": "Pluton",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbdd55bd-a02a-4d08-a9dc-7b5efae126ee",
+    "data": [
+      {
+        "text": "10 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfe76974-fe6a-4902-a03a-becbecee9f41",
+    "data": [
+      {
+        "text": "mojito",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "biatch",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "557afa5d-64e4-44ec-820f-b816ebd898c4",
+    "data": [
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f6ee2bf-748b-4981-887f-5df7f65d998b",
+    "data": [
+      {
+        "text": "venus",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "feb4567b-a2f2-40f3-bb52-6d3d0d526c00",
+    "data": [
+      {
+        "text": "now",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "996b35c8-faa5-4fcd-bbe2-a2bc7c4f37d3",
+    "data": [
+      {
+        "text": "mojito",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c32c2bd4-b7a2-44ad-b08b-4a1253f0ffb4",
+    "data": [
+      {
+        "text": "medium",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6a2bc1c7-2e4b-4eac-b907-a65e2153bc7e",
+    "data": [
+      {
+        "text": "woman",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "391372b6-dec0-4353-9402-baf57941122e",
+    "data": [
+      {
+        "text": "in 20 minutes",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluto",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b86a3642-b678-4ce6-9c4d-fedb4e0bcde2",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "beer",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3087a765-99af-4d15-bfdf-3f3c8a29563a",
+    "data": [
+      {
+        "text": "barman",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c5e5f569-1e81-4293-bca9-9af6e7e28c71",
+    "data": [
+      {
+        "text": "10pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "72bf9e1d-476b-4815-8423-49037f5d343a",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "68d9f59a-22ab-4a57-9f95-dd8c4d42d384",
+    "data": [
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "857a28e1-7465-4663-ba58-be4cd9594469",
+    "data": [
+      {
+        "text": "11pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "edffeeeb-9098-46d2-be73-3f7cc18cdd66",
+    "data": [
+      {
+        "text": "Pluto",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "17c66b15-01ec-45e6-8f14-0e92a1bac105",
+    "data": [
+      {
+        "text": "Jupiter",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "692f0af4-d0f1-40fe-9e88-6ff90e6e92d1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "0c25f46d-7073-443a-b6c3-1e4ae4da5f27",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "man",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b23fd937-29cf-40c0-824f-926c9b9a2fa1",
+    "data": [
+      {
+        "text": "in 10 minutes",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a5b17967-116e-4031-8ee3-682db19133f1",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " by a ",
+        "userDefined": false
+      },
+      {
+        "text": "girl",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2cd58c4-66bf-4839-853c-1cf7ee6389a4",
+    "data": [
+      {
+        "text": "Saturne",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85ef5cc1-a937-4847-8b33-b001d2581db0",
+    "data": [
+      {
+        "text": "in 1 minute",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3336d24-0ba4-4006-8d3c-97e37d122b8b",
+    "data": [
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "648333c1-3b14-4243-bfa1-a022be4110d4",
+    "data": [
+      {
+        "text": "man",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a64d555-832b-4feb-8271-1f4862873653",
+    "data": [
+      {
+        "text": "I want an ",
+        "userDefined": false
+      },
+      {
+        "text": "ACID",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " cocktail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "099a0275-e036-4645-9acc-76072a47befe",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "Gin Fizz",
+        "alias": "cocktail_name",
+        "userDefined": false
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38410d48-a6c7-4b8d-9913-47831192dfd1",
+    "data": [
+      {
+        "text": "at ",
+        "userDefined": false
+      },
+      {
+        "text": "midnight",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "72bc2ba4-cf17-4719-a125-2efd1b395110",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "cocktail_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0472d712-0f0f-4c32-b0ea-39e1f5c38ecf",
+    "data": [
+      {
+        "text": "10",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ".pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "43caf090-974c-4749-9ceb-e122c4f9b35c",
+    "data": [
+      {
+        "text": "Hi, I would like a Chocolate Milk at table ",
+        "userDefined": false
+      },
+      {
+        "text": "Jupiter",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      },
+      {
+        "text": ". I\u0027will pay ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91903735-673e-464a-8894-f5c52abe36a4",
+    "data": [
+      {
+        "text": "preferably at ",
+        "userDefined": false
+      },
+      {
+        "text": "22.30 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6910c84-69f3-46cf-8a93-12ceec6dd448",
+    "data": [
+      {
+        "text": "Hi I need an Avelon at ",
+        "userDefined": false
+      },
+      {
+        "text": "4am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " for my friend. he will pay ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8ff3a90-5761-4d5d-9381-8aaa5868320e",
+    "data": [
+      {
+        "text": "i would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      },
+      {
+        "text": " Big Red at ",
+        "userDefined": false
+      },
+      {
+        "text": "11pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " from a ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      },
+      {
+        "text": " pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79f0e5b3-3065-4aee-82bf-95385d5cacc3",
+    "data": [
+      {
+        "text": "at ",
+        "userDefined": false
+      },
+      {
+        "text": "9pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74d66089-536c-4ce4-bf07-410e41866bb9",
+    "data": [
+      {
+        "text": "noon",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f074d02-9304-46d5-965a-307cd7e8bdc3",
+    "data": [
+      {
+        "text": "I\u0027ll have ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "After sex",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " at the ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": ". Please, bring me a young ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85d18c2a-f168-4109-915c-98c815dcb3d5",
+    "data": [
+      {
+        "text": "I would like ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "B-52",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Earth",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ". I\u0027ll pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80aa21cf-a133-4d9e-a705-101728f50f86",
+    "data": [
+      {
+        "text": "I take ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bloody Mary",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9.30 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      },
+      {
+        "text": ". I\u0027ll pay ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cbb8a62-6f76-4042-b953-d6a957ed1975",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      },
+      {
+        "text": " will bring me on the table ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "After Sex",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "4 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44147fb5-a197-4ca1-9de3-0202542fb95a",
+    "data": [
+      {
+        "text": "I\u0027ll take ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Casa Blanca",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": ". I\u0027ll pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": true
+      },
+      {
+        "text": ". I\u0027ll take it at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0ff8f8f-a920-4274-bea8-1e5f2e2f82cc",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Red",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "11 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " from a ",
+        "userDefined": false
+      },
+      {
+        "text": "man",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": false
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluton",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "285e310f-6169-479e-8d4f-388a27d28d8b",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kool First Aid",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at noon",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " from a ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": true
+      },
+      {
+        "text": " and pay ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a973d8e2-c440-40e9-bec1-b445049b7364",
+    "data": [
+      {
+        "text": "I would like to have ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojitos",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " and pay by ",
+        "userDefined": false
+      },
+      {
+        "text": "card",
+        "alias": "payment",
+        "meta": "@Payment",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at midnight",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac7e2f34-b939-4a9c-9ec9-1f37d0fc9c4a",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Screwdriver",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " cocktail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e57033d6-b9bb-4fc9-8ee9-71b8c7781448",
+    "data": [
+      {
+        "text": "Bring me a ",
+        "userDefined": false
+      },
+      {
+        "text": "man",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": true
+      },
+      {
+        "text": " with a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Irish Curdling Cow",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "3 am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebe544a1-39c0-44a8-9c8c-6daae805508a",
+    "data": [
+      {
+        "text": "I would like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gin Fizz",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "9 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Neptune",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1fd2212-82a3-4f96-b1b5-f7d8779f187d",
+    "data": [
+      {
+        "text": "I\u0027m willing to have a ",
+        "userDefined": false
+      },
+      {
+        "text": "man",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston Sour",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at midnight",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd231054-a9e2-4a46-a1a3-2736f101aa40",
+    "data": [
+      {
+        "text": "I\u0027ll have a ",
+        "userDefined": false
+      },
+      {
+        "text": "lady",
+        "alias": "sex",
+        "meta": "@Sex",
+        "userDefined": true
+      },
+      {
+        "text": " bringing me a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Earth",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c071bfb-1b6d-4659-bb26-07b339ec9ef6",
+    "data": [
+      {
+        "text": "I want to have at ",
+        "userDefined": false
+      },
+      {
+        "text": "10 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Negroni",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      },
+      {
+        "text": " on my ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluton",
+        "alias": "table",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": " table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3965d31e-c0d8-4bd0-a222-84f7f8b69b4f",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow Mule",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58b228e8-3ead-4aad-b96d-dd2dbf2dffbb",
+    "data": [
+      {
+        "text": "I would like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "Cocktail_Name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

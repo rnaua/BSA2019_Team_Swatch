@@ -1,0 +1,169 @@
+{
+  "id": "1495db4f-a68e-4b50-b4c2-a2c787504c4c",
+  "name": "Ordering_cocktails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ordering_cocktails",
+      "affectedContexts": [
+        {
+          "name": "Ordering_cocktails-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd7b0e14-8e74-479c-9cf2-0377fff918d5",
+          "required": true,
+          "dataType": "@Size",
+          "name": "size",
+          "value": "$size",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which size of cocktail do you want? Small, medium or large?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a7a45943-57dd-43ea-bfd7-60d0f4dceac4",
+          "required": true,
+          "dataType": "@Payment",
+          "name": "payment",
+          "value": "$payment",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to pay by card or cash?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "35a73f20-b348-41e0-9546-465c7e91add0",
+          "required": true,
+          "dataType": "@Sex",
+          "name": "sex",
+          "value": "$sex",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Would you rather have a barmaid or barman serving you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "41da5a63-dd58-4416-905c-ff5e7a6c06e4",
+          "required": true,
+          "dataType": "@Table",
+          "name": "table",
+          "value": "$table",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the \"Planet\" name of your table?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c670df24-9133-4b09-b9c8-066dac713f7b",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "At what time do you want your cocktail to be ready?"
+            },
+            {
+              "lang": "en",
+              "value": "At what time do you want to have it ready?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0f5af6a1-9852-41fa-9c94-91491b85985f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "86fac73d-6deb-4065-85de-70e8d150d3d6",
+          "required": true,
+          "dataType": "@Cocktail_Name",
+          "name": "Cocktail_Name",
+          "value": "$Cocktail_Name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the cocktail you would like to drink?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "So, you would like to have a $sex bringing you $number $Cocktail_Name cocktail at $table table at approximately $time. Is that correct?",
+            "Nice! So, it will be a $size $Cocktail_Name payed $payment served by a $sex . Correct?",
+            "Perfect! Then, a $sex will bring you a $size $Cocktail_Name at $time and you will pay $payment . Is that correct?",
+            "Your order is: one $size $Cocktail_Name for $table table and you want to pay the $sex $payment. Is that right?",
+            "Your order: $number $Cocktail_Name for $table table with $payment and a $sex . Right?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

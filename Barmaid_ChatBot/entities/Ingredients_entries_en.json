@@ -1,0 +1,602 @@
+[
+  {
+    "value": "Light rum",
+    "synonyms": [
+      "Light rum"
+    ]
+  },
+  {
+    "value": "Applejack",
+    "synonyms": [
+      "Applejack"
+    ]
+  },
+  {
+    "value": "Gin",
+    "synonyms": [
+      "Gin"
+    ]
+  },
+  {
+    "value": "Dark rum",
+    "synonyms": [
+      "Dark rum"
+    ]
+  },
+  {
+    "value": "Sweet Vermouth",
+    "synonyms": [
+      "Sweet Vermouth"
+    ]
+  },
+  {
+    "value": "Strawberry schnapps",
+    "synonyms": [
+      "Strawberry schnapps"
+    ]
+  },
+  {
+    "value": "Scotch",
+    "synonyms": [
+      "Scotch"
+    ]
+  },
+  {
+    "value": "Apricot brandy",
+    "synonyms": [
+      "Apricot brandy"
+    ]
+  },
+  {
+    "value": "Triple sec",
+    "synonyms": [
+      "Triple sec"
+    ]
+  },
+  {
+    "value": "Southern Comfort",
+    "synonyms": [
+      "Southern Comfort"
+    ]
+  },
+  {
+    "value": "Orange bitters",
+    "synonyms": [
+      "Orange bitters"
+    ]
+  },
+  {
+    "value": "Brandy",
+    "synonyms": [
+      "Brandy"
+    ]
+  },
+  {
+    "value": "Lemon vodka",
+    "synonyms": [
+      "Lemon vodka"
+    ]
+  },
+  {
+    "value": "Blended whiskey",
+    "synonyms": [
+      "Blended whiskey"
+    ]
+  },
+  {
+    "value": "Dry Vermouth",
+    "synonyms": [
+      "Dry Vermouth"
+    ]
+  },
+  {
+    "value": "Amaretto",
+    "synonyms": [
+      "Amaretto"
+    ]
+  },
+  {
+    "value": "Tea",
+    "synonyms": [
+      "Tea"
+    ]
+  },
+  {
+    "value": "Champagne",
+    "synonyms": [
+      "Champagne"
+    ]
+  },
+  {
+    "value": "Coffee liqueur",
+    "synonyms": [
+      "Coffee liqueur"
+    ]
+  },
+  {
+    "value": "Bourbon",
+    "synonyms": [
+      "Bourbon"
+    ]
+  },
+  {
+    "value": "Tequila",
+    "synonyms": [
+      "Tequila"
+    ]
+  },
+  {
+    "value": "Vodka",
+    "synonyms": [
+      "Vodka"
+    ]
+  },
+  {
+    "value": "Añejo rum",
+    "synonyms": [
+      "Añejo rum"
+    ]
+  },
+  {
+    "value": "Bitters",
+    "synonyms": [
+      "Bitters"
+    ]
+  },
+  {
+    "value": "Sugar",
+    "synonyms": [
+      "Sugar"
+    ]
+  },
+  {
+    "value": "Kahlua",
+    "synonyms": [
+      "Kahlua"
+    ]
+  },
+  {
+    "value": "demerara Sugar",
+    "synonyms": [
+      "demerara Sugar"
+    ]
+  },
+  {
+    "value": "Dubonnet Rouge",
+    "synonyms": [
+      "Dubonnet Rouge"
+    ]
+  },
+  {
+    "value": "Lime juice",
+    "synonyms": [
+      "Lime juice"
+    ]
+  },
+  {
+    "value": "Irish whiskey",
+    "synonyms": [
+      "Irish whiskey"
+    ]
+  },
+  {
+    "value": "Apple brandy",
+    "synonyms": [
+      "Apple brandy"
+    ]
+  },
+  {
+    "value": "Carbonated water",
+    "synonyms": [
+      "Carbonated water"
+    ]
+  },
+  {
+    "value": "Cherry brandy",
+    "synonyms": [
+      "Cherry brandy"
+    ]
+  },
+  {
+    "value": "Creme de Cacao",
+    "synonyms": [
+      "Creme de Cacao"
+    ]
+  },
+  {
+    "value": "Grenadine",
+    "synonyms": [
+      "Grenadine"
+    ]
+  },
+  {
+    "value": "Port",
+    "synonyms": [
+      "Port"
+    ]
+  },
+  {
+    "value": "Coffee brandy",
+    "synonyms": [
+      "Coffee brandy"
+    ]
+  },
+  {
+    "value": "Red wine",
+    "synonyms": [
+      "Red wine"
+    ]
+  },
+  {
+    "value": "Rum",
+    "synonyms": [
+      "Rum"
+    ]
+  },
+  {
+    "value": "Grapefruit juice",
+    "synonyms": [
+      "Grapefruit juice"
+    ]
+  },
+  {
+    "value": "Ricard",
+    "synonyms": [
+      "Ricard"
+    ]
+  },
+  {
+    "value": "Sherry",
+    "synonyms": [
+      "Sherry"
+    ]
+  },
+  {
+    "value": "Cognac",
+    "synonyms": [
+      "Cognac"
+    ]
+  },
+  {
+    "value": "Sloe gin",
+    "synonyms": [
+      "Sloe gin"
+    ]
+  },
+  {
+    "value": "Apple juice",
+    "synonyms": [
+      "Apple juice"
+    ]
+  },
+  {
+    "value": "Pineapple juice",
+    "synonyms": [
+      "Pineapple juice"
+    ]
+  },
+  {
+    "value": "Lemon juice",
+    "synonyms": [
+      "Lemon juice"
+    ]
+  },
+  {
+    "value": "Sugar syrup",
+    "synonyms": [
+      "Sugar syrup"
+    ]
+  },
+  {
+    "value": "Milk",
+    "synonyms": [
+      "Milk"
+    ]
+  },
+  {
+    "value": "Strawberries",
+    "synonyms": [
+      "Strawberries"
+    ]
+  },
+  {
+    "value": "Chocolate syrup",
+    "synonyms": [
+      "Chocolate syrup"
+    ]
+  },
+  {
+    "value": "Yoghurt",
+    "synonyms": [
+      "Yoghurt"
+    ]
+  },
+  {
+    "value": "Mango",
+    "synonyms": [
+      "Mango"
+    ]
+  },
+  {
+    "value": "Ginger",
+    "synonyms": [
+      "Ginger"
+    ]
+  },
+  {
+    "value": "Lime",
+    "synonyms": [
+      "Lime"
+    ]
+  },
+  {
+    "value": "Cantaloupe",
+    "synonyms": [
+      "Cantaloupe"
+    ]
+  },
+  {
+    "value": "Berries",
+    "synonyms": [
+      "Berries"
+    ]
+  },
+  {
+    "value": "Grapes",
+    "synonyms": [
+      "Grapes"
+    ]
+  },
+  {
+    "value": "Kiwi",
+    "synonyms": [
+      "Kiwi"
+    ]
+  },
+  {
+    "value": "Tomato juice",
+    "synonyms": [
+      "Tomato juice"
+    ]
+  },
+  {
+    "value": "Cocoa powder",
+    "synonyms": [
+      "Cocoa powder"
+    ]
+  },
+  {
+    "value": "Chocolate",
+    "synonyms": [
+      "Chocolate"
+    ]
+  },
+  {
+    "value": "Heavy cream",
+    "synonyms": [
+      "Heavy cream"
+    ]
+  },
+  {
+    "value": "Galliano",
+    "synonyms": [
+      "Galliano"
+    ]
+  },
+  {
+    "value": "Peach Vodka",
+    "synonyms": [
+      "Peach Vodka"
+    ]
+  },
+  {
+    "value": "Ouzo",
+    "synonyms": [
+      "Ouzo"
+    ]
+  },
+  {
+    "value": "Coffee",
+    "synonyms": [
+      "Coffee"
+    ]
+  },
+  {
+    "value": "Spiced rum",
+    "synonyms": [
+      "Spiced rum"
+    ]
+  },
+  {
+    "value": "Water",
+    "synonyms": [
+      "Water"
+    ]
+  },
+  {
+    "value": "Espresso",
+    "synonyms": [
+      "Espresso"
+    ]
+  },
+  {
+    "value": "Angelica root",
+    "synonyms": [
+      "Angelica root"
+    ]
+  },
+  {
+    "value": "Orange",
+    "synonyms": [
+      "Orange"
+    ]
+  },
+  {
+    "value": "Cranberries",
+    "synonyms": [
+      "Cranberries"
+    ]
+  },
+  {
+    "value": "Johnnie Walker",
+    "synonyms": [
+      "Johnnie Walker"
+    ]
+  },
+  {
+    "value": "Apple cider",
+    "synonyms": [
+      "Apple cider"
+    ]
+  },
+  {
+    "value": "Everclear",
+    "synonyms": [
+      "Everclear"
+    ]
+  },
+  {
+    "value": "Cranberry juice",
+    "synonyms": [
+      "Cranberry juice"
+    ]
+  },
+  {
+    "value": "Egg yolk",
+    "synonyms": [
+      "Egg yolk"
+    ]
+  },
+  {
+    "value": "Egg",
+    "synonyms": [
+      "Egg"
+    ]
+  },
+  {
+    "value": "Grape juice",
+    "synonyms": [
+      "Grape juice"
+    ]
+  },
+  {
+    "value": "Peach nectar",
+    "synonyms": [
+      "Peach nectar"
+    ]
+  },
+  {
+    "value": "Lemon",
+    "synonyms": [
+      "Lemon"
+    ]
+  },
+  {
+    "value": "Firewater",
+    "synonyms": [
+      "Firewater"
+    ]
+  },
+  {
+    "value": "Lemonade",
+    "synonyms": [
+      "Lemonade"
+    ]
+  },
+  {
+    "value": "Lager",
+    "synonyms": [
+      "Lager"
+    ]
+  },
+  {
+    "value": "Whiskey",
+    "synonyms": [
+      "Whiskey"
+    ]
+  },
+  {
+    "value": "Absolut Citron",
+    "synonyms": [
+      "Absolut Citron"
+    ]
+  },
+  {
+    "value": "Pisco",
+    "synonyms": [
+      "Pisco"
+    ]
+  },
+  {
+    "value": "Irish cream",
+    "synonyms": [
+      "Irish cream"
+    ]
+  },
+  {
+    "value": "Ale",
+    "synonyms": [
+      "Ale"
+    ]
+  },
+  {
+    "value": "Chocolate liqueur",
+    "synonyms": [
+      "Chocolate liqueur"
+    ]
+  },
+  {
+    "value": "Midori melon liqueur",
+    "synonyms": [
+      "Midori melon liqueur"
+    ]
+  },
+  {
+    "value": "Sambuca",
+    "synonyms": [
+      "Sambuca"
+    ]
+  },
+  {
+    "value": "Cider",
+    "synonyms": [
+      "Cider"
+    ]
+  },
+  {
+    "value": "Sprite",
+    "synonyms": [
+      "Sprite"
+    ]
+  },
+  {
+    "value": "7-Up",
+    "synonyms": [
+      "7-Up"
+    ]
+  },
+  {
+    "value": "Blackberry brandy",
+    "synonyms": [
+      "Blackberry brandy"
+    ]
+  },
+  {
+    "value": "Peppermint schnapps",
+    "synonyms": [
+      "Peppermint schnapps"
+    ]
+  },
+  {
+    "value": "Creme de Cassis",
+    "synonyms": [
+      "Creme de Cassis"
+    ]
+  },
+  {
+    "value": "Jack Daniels",
+    "synonyms": [
+      "Jack Daniels"
+    ]
+  }
+]

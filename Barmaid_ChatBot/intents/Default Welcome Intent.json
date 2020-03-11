@@ -1,0 +1,73 @@
+{
+  "id": "c1dce903-e979-463b-92db-4c027b37041f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Good evening,",
+            "Hi,",
+            "Heya,",
+            "Greetings,",
+            "Hello,"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m your barmaid 2.0!",
+            "I\u0027m the barmaid you\u0027ve dreamed of!",
+            "I\u0027m the best barmaid you\u0027ve ever seen!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "But, I\u0027m on a testing phase! So, I\u0027m only offering cocktails for the moment!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can either have a look at a cocktail\u0027s recipe, find a list of cocktails containing your favorite ingredient or order a specific one!  \n\nBut, you can also ask us for a surprise!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "What would you like?",
+            "What do you want?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

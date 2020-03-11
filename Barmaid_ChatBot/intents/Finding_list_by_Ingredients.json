@@ -1,0 +1,61 @@
+{
+  "id": "e81b5ad3-f98e-4528-8e73-c980b2fc7623",
+  "name": "Finding_list_by_Ingredients",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Finding_list_by_Ingredients",
+      "affectedContexts": [
+        {
+          "name": "Finding_list_by_Ingredients-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7e0f921f-f84b-40ca-988c-7851dac0b4e2",
+          "required": true,
+          "dataType": "@Ingredients",
+          "name": "Ingredients",
+          "value": "$Ingredients",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Based on which ingredient do you want to see the list of cocktail?"
+            },
+            {
+              "lang": "en",
+              "value": "What ingredient are you interested in?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

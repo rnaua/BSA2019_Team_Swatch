@@ -1,0 +1,36 @@
+{
+  "id": "8b6c0849-3b17-4fef-8c6c-f0024a049dce",
+  "parentId": "31a2ccc6-ce32-4088-a997-3c3617ead74a",
+  "rootParentId": "31a2ccc6-ce32-4088-a997-3c3617ead74a",
+  "name": "Ordering_surprise - no",
+  "auto": true,
+  "contexts": [
+    "Ordering_surprise-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ordering_surprise.Ordering_surprise-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sorry for misunderstanding. Please tell me once again, what would you like to drink?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

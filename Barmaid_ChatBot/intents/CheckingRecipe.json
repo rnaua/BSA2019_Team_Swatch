@@ -1,0 +1,51 @@
+{
+  "id": "4b16d7cc-4cb0-4f81-91fd-0b5c053e9c23",
+  "name": "CheckingRecipe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Checking_recipe",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49464ea5-4cfc-434b-a441-3c94b2b80688",
+          "required": true,
+          "dataType": "@Cocktail_Name",
+          "name": "cocktail_name",
+          "value": "$cocktail_name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of the cocktail recipe you would like to see?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

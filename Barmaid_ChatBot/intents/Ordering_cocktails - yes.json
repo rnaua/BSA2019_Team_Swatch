@@ -1,0 +1,39 @@
+{
+  "id": "24829d76-2c8c-41bd-aa9d-218338d61631",
+  "parentId": "1495db4f-a68e-4b50-b4c2-a2c787504c4c",
+  "rootParentId": "1495db4f-a68e-4b50-b4c2-a2c787504c4c",
+  "name": "Ordering_cocktails - yes",
+  "auto": true,
+  "contexts": [
+    "Ordering_cocktails-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ordering_cocktails.Ordering_cocktails-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Perfect! See you then!",
+            "Alright! See you soon!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

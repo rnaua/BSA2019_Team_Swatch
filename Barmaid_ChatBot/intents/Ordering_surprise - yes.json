@@ -1,0 +1,41 @@
+{
+  "id": "b8e5aa4c-0284-4c9a-8bd0-a6eee731e7b1",
+  "parentId": "31a2ccc6-ce32-4088-a997-3c3617ead74a",
+  "rootParentId": "31a2ccc6-ce32-4088-a997-3c3617ead74a",
+  "name": "Ordering_surprise - yes",
+  "auto": true,
+  "contexts": [
+    "Ordering_surprise-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ordering_surprise.Ordering_surprise-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m excited to see your face!",
+            "You make me laugh! See you in a bit!",
+            "Hope you will enjoy!",
+            "Can\u0027t wait to see your reaction!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

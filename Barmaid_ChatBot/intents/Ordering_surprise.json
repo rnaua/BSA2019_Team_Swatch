@@ -1,0 +1,110 @@
+{
+  "id": "31a2ccc6-ce32-4088-a997-3c3617ead74a",
+  "name": "Ordering_surprise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ordering_surprise",
+      "affectedContexts": [
+        {
+          "name": "Ordering_surprise-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5060e63d-fd63-4b27-b62c-fa4efd684c69",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time_s",
+          "value": "$time_s",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "At what time do you want your drink?"
+            },
+            {
+              "lang": "en",
+              "value": "When do you want the surprise on your table?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "58a07436-9bfb-42b7-833f-311bf83e8490",
+          "required": true,
+          "dataType": "@Table",
+          "name": "table_s",
+          "value": "$table_s",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the name of your \"Planet\" table?"
+            },
+            {
+              "lang": "en",
+              "value": "On which \"Planet\" table would you like your drink to be served?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "61cd6766-0877-4981-8ec7-4046daaa7031",
+          "required": false,
+          "dataType": "@Size",
+          "name": "size_s",
+          "value": "$size_s",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "db3ff2da-858d-4875-a001-3c3c16a261c4",
+          "required": false,
+          "dataType": "@Cocktail_surprise",
+          "name": "Cocktail_surprise",
+          "value": "$Cocktail_surprise",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Nice! I\u0027ll bring you a surprise on $table_s table at $time_s . Is that correct?",
+            "Fantastic! I\u0027ll bring you an amazing cocktail on $table_s at $time_s . Is that right?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

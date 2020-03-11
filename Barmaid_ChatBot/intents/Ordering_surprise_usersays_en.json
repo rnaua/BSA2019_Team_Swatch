@@ -1,0 +1,449 @@
+[
+  {
+    "id": "a2e5d880-1ae6-474d-abd7-6492dbaa69a0",
+    "data": [
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "surprise",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "635cb926-d122-4016-a782-9f80cac785eb",
+    "data": [
+      {
+        "text": "I will go for a cocktail ",
+        "userDefined": false
+      },
+      {
+        "text": "of your choice",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e86b5d5-66f7-4620-a75d-f2799c67b573",
+    "data": [
+      {
+        "text": "I will take a ",
+        "userDefined": false
+      },
+      {
+        "text": "random",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2feb2c45-c904-455c-acbe-4a0eca021d9a",
+    "data": [
+      {
+        "text": "a drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4bb6b770-5ad4-4ce0-869c-ba6f93a8478f",
+    "data": [
+      {
+        "text": "I want a cocktail Screwdriver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "71c8959c-c65e-40b9-bf51-9c1ea71b13af",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "random",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " cocktail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2c99489-3185-4e5e-ba8d-7d90eba6568f",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "surprise",
+        "alias": "cocktail_surprise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8a09baa-9f30-4701-b599-d72e79546274",
+    "data": [
+      {
+        "text": "i\u0027ll take your favorite drink at ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluton",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea567bbb-55b4-4302-8eed-dd3211b5e35c",
+    "data": [
+      {
+        "text": "I\u0027d like your favorite drink at ",
+        "userDefined": false
+      },
+      {
+        "text": "10 pm",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "166fde0a-8ce8-4d40-86a1-b144bb29aea1",
+    "data": [
+      {
+        "text": "I\u0027ll give you a chance to ",
+        "userDefined": false
+      },
+      {
+        "text": "surprise",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " me! I\u0027m sitting on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluton",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b8c36a8-e6f8-467f-83ad-327c4aad63ed",
+    "data": [
+      {
+        "text": "I\u0027ll take your favorite drink ",
+        "userDefined": false
+      },
+      {
+        "text": "at noon",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluton",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45398372-5dbc-4f46-80e5-3e87f4096fe0",
+    "data": [
+      {
+        "text": "I want what you say at ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf3b805e-7c35-4af9-b232-ab1c59f5b432",
+    "data": [
+      {
+        "text": "I\u0027d like you to ",
+        "userDefined": false
+      },
+      {
+        "text": "surprise",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " me at ",
+        "userDefined": false
+      },
+      {
+        "text": "3 am",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " at the table ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9f37431-7fe2-4592-ada7-68689c6efdf2",
+    "data": [
+      {
+        "text": "I\u0027ll take ",
+        "userDefined": false
+      },
+      {
+        "text": "whatever",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " you have at ",
+        "userDefined": false
+      },
+      {
+        "text": "9 pm",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16baf794-1898-4eab-ba15-12ba4dd58299",
+    "data": [
+      {
+        "text": "I would like the best cocktail you have!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28cd51b8-648b-4bac-ad3b-3b27130e6f7b",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "anything",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " but something ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "alias": "size_s",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "343e2f12-9d35-48dc-b412-39ec0d1ca281",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "random",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " one! But something ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size_s",
+        "meta": "@Size",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46ad5104-bddc-4b6e-989f-0955ad1fdeb8",
+    "data": [
+      {
+        "text": "Surprise",
+        "alias": "Cocktail_surprise",
+        "meta": "@Cocktail_surprise",
+        "userDefined": true
+      },
+      {
+        "text": " me at ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "alias": "time_s",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " on table ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "alias": "table_s",
+        "meta": "@Table",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

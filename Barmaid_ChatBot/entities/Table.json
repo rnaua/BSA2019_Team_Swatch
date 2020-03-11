@@ -1,0 +1,9 @@
+{
+  "id": "ec150b94-ff04-48fb-a191-0d9f03cd9192",
+  "name": "Table",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

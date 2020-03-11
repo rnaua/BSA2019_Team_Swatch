@@ -1,0 +1,9 @@
+{
+  "id": "5d6b360b-5b7f-4437-8275-1d5e1e42e9de",
+  "name": "Payment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

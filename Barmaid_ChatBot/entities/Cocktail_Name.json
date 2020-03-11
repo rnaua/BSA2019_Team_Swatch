@@ -1,0 +1,9 @@
+{
+  "id": "d1d67692-3f2b-48d1-8d59-c3833faa4ef9",
+  "name": "Cocktail_Name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

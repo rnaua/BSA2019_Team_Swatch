@@ -1,0 +1,514 @@
+[
+  {
+    "id": "85968fc2-0585-4b7a-9c8a-199434215764",
+    "data": [
+      {
+        "text": "I would like to see the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b29fe5-2cf3-452d-b3d5-20c96dcb67de",
+    "data": [
+      {
+        "text": "Can i see the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "scotch sour",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "102f7f5e-58c6-4983-8e6d-d8c544a06cad",
+    "data": [
+      {
+        "text": "What\u0027s the recipe of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Lemon Drop",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c8faa4d-d305-46fc-a1d4-b0c516ba08d7",
+    "data": [
+      {
+        "text": "What\u0027a the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "841bfb57-bab6-4b19-b9ac-3d97c1ba53ef",
+    "data": [
+      {
+        "text": "What\u0027s the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "martini",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7b08063f-fc94-4ca9-a64f-a49ac0ee1d5e",
+    "data": [
+      {
+        "text": "What are the ingredients for a ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db5e750f-df5f-4005-ad9a-687339f8bbe3",
+    "data": [
+      {
+        "text": "Can I have the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acfc1037-8eb2-4215-81e6-8c9770a67a7e",
+    "data": [
+      {
+        "text": "Can I have the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bloody Mary",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75ac0a4d-74ff-41fc-83f8-f52ef82c34dd",
+    "data": [
+      {
+        "text": "I want the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "Gin Fizz",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26350777-bedd-46dd-8d1a-9fa072625ce6",
+    "data": [
+      {
+        "text": "I want to know the recipe of a good ",
+        "userDefined": false
+      },
+      {
+        "text": "Moscow Mule",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1b3e708-9c04-4f23-8f62-73854646c806",
+    "data": [
+      {
+        "text": "I want to know how to do a ",
+        "userDefined": false
+      },
+      {
+        "text": "Brain Fart",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea9bbc4a-5f23-4c20-8f25-06bf99964840",
+    "data": [
+      {
+        "text": "I want the recipe of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Brain Fart",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "562cc7e9-149d-42e0-b0ed-f7108aed9526",
+    "data": [
+      {
+        "text": "can i have the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2c7bd8b-fe45-4215-91c8-575fe1595834",
+    "data": [
+      {
+        "text": "i want the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "updated": 0
+  },
+  {
+    "id": "d3ff4f86-ca72-43e0-be95-cc516cfae9b4",
+    "data": [
+      {
+        "text": "can i check the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bloody Mary",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "8534f6e3-3017-4d62-979c-821b2b72b01e",
+    "data": [
+      {
+        "text": "Can I see the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67d02b89-116b-4baa-9d8e-f80dd060bde2",
+    "data": [
+      {
+        "text": "Can I have the recipe of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Bloody mary",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bb1cf57-8ec6-4508-a55f-9d9347284f73",
+    "data": [
+      {
+        "text": "Can I check the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "Bloody Mary",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daac128b-9db8-43b7-8f61-309e56a12a86",
+    "data": [
+      {
+        "text": "i would like to check the recipe for a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "853b8dd6-c50c-4c1e-9581-b5a5fa2fc050",
+    "data": [
+      {
+        "text": "give me the recipe of the ",
+        "userDefined": false
+      },
+      {
+        "text": "mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c355831d-cf11-4f74-b1ac-db28924ca7a3",
+    "data": [
+      {
+        "text": "I would like to check the recipe for a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f72614ff-cc91-4e2d-8b6d-c9b3aa516f78",
+    "data": [
+      {
+        "text": "I wish I could see what\u0027s in  ",
+        "userDefined": false
+      },
+      {
+        "text": "Lunch Box",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e04712a3-ee38-4ea3-b868-84487d01749b",
+    "data": [
+      {
+        "text": "I want to have a look at the recipe of ",
+        "userDefined": false
+      },
+      {
+        "text": "Cafe Savoy",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bb07cb8-8e9d-42c8-b23b-0b2f266aac0e",
+    "data": [
+      {
+        "text": "I\u0027d like to see which ingredients are in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bluebird",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f08a71a0-bab6-462c-92c9-0683f47d2b19",
+    "data": [
+      {
+        "text": "I\u0027d like to see what\u0027s in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boxcar",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c506ebe8-6509-40e5-8109-7c55c9fd36d4",
+    "data": [
+      {
+        "text": "I would like to see the recipe of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f1b0974-8a15-45e8-8fa7-67d25ddb1b09",
+    "data": [
+      {
+        "text": "Show me the recipe of the cocktail ",
+        "userDefined": false
+      },
+      {
+        "text": "Gin Fizz",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d808400-f188-405b-b9c5-52532e7c0261",
+    "data": [
+      {
+        "text": "Show me the recipe of a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mojito",
+        "alias": "cocktail_name",
+        "meta": "@Cocktail_Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

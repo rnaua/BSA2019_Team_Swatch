@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Bar",
+    "synonyms": [
+      "Bar"
+    ]
+  },
+  {
+    "value": "Jupiter",
+    "synonyms": [
+      "Jupiter"
+    ]
+  },
+  {
+    "value": "Venus",
+    "synonyms": [
+      "Venus"
+    ]
+  },
+  {
+    "value": "Mars",
+    "synonyms": [
+      "Mars"
+    ]
+  },
+  {
+    "value": "Mercure",
+    "synonyms": [
+      "Mercure"
+    ]
+  },
+  {
+    "value": "Saturne",
+    "synonyms": [
+      "Saturne"
+    ]
+  },
+  {
+    "value": "Uranus",
+    "synonyms": [
+      "Uranus"
+    ]
+  },
+  {
+    "value": "Earth",
+    "synonyms": [
+      "Earth"
+    ]
+  },
+  {
+    "value": "Neptune",
+    "synonyms": [
+      "Neptune"
+    ]
+  },
+  {
+    "value": "Pluton",
+    "synonyms": [
+      "Pluton"
+    ]
+  }
+]
