@@ -54,3 +54,11 @@ The link of the **Youtube** video is: ...
 #### Preparing a presentation 
 
 For the course purposes, we created some **Google Slides** to support our 20 min in-class presentation. 
+
+## The files
+
+- **Barmaid_ChatBot** : Folder containing all the intents and entities of the bot. This can be used to recreate a complete ChatBot.
+
+- **dialogflowFulfillment** : Folder containing the functions used to interact with the API.
+
+- **chatbot.ipynb** : Notebook of our project.
