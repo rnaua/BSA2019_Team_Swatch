@@ -61,6 +61,8 @@ For the course purposes, we created some **Google Slides** to support our 20 min
 
 - **dialogflowFulfillment** : Folder containing the functions used to interact with the API.
 
+- **dialogflowAPIExtraction** : Folder containing files which has been used to extract list of ingredients/recipes
+
 - **chatbot.ipynb** : Notebook of our project.
 
 
