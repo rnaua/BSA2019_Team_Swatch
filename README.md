@@ -65,6 +65,9 @@ For the course purposes, we created some **Google Slides** to support our 20 min
 
 - **Dialogflow_ChatBot.ipynb** : Notebook of our project.
 
+## Link to the Youtube video
+https://www.youtube.com/watch?v=2ytgwQmWVj8&feature=youtu.be
+
 ## References
 
 For the presentation of Dialogflow in the notebook:
