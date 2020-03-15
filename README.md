@@ -49,7 +49,7 @@ In order to fulfill the requirement of the project, we wrote a **Google Colab** 
 
 In order to illustrate this project, we created a little video giving some important insights on the creation and development of our **Barmaid 2.0 chatbot**.
 
-The link of the **Youtube** video is: ...
+The link of the **Youtube** video is: https://www.youtube.com/watch?v=2ytgwQmWVj8&feature=youtu.be
 
 #### Preparing a presentation 
 
@@ -62,3 +62,5 @@ For the course purposes, we created some **Google Slides** to support our 20 min
 - **dialogflowFulfillment** : Folder containing the functions used to interact with the API.
 
 - **chatbot.ipynb** : Notebook of our project.
+
+
