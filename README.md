@@ -63,6 +63,6 @@ For the course purposes, we created some **Google Slides** to support our 20 min
 
 - **dialogflowAPIExtraction** : Folder containing files which has been used to extract list of ingredients/recipes
 
-- **chatbot.ipynb** : Notebook of our project.
+- **Dialogflow_ChatBot.ipynb** : Notebook of our project.
 
 
