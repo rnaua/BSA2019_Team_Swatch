@@ -65,4 +65,14 @@ For the course purposes, we created some **Google Slides** to support our 20 min
 
 - **Dialogflow_ChatBot.ipynb** : Notebook of our project.
 
+## References
+
+For the presentation of Dialogflow in the notebook:
+- https://cloud.google.com/dialogflow/docs/basics
+- https://cloud.google.com/dialogflow/docs/video
+- https://cloud.google.com/dialogflow/docs/agents-overview
+
+For the tutorial in the notebook
+- https://www.youtube.com/watch?v=n4IPOeFCDxI
+
 
